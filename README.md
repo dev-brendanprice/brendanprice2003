@@ -1,4 +1,3 @@
-<p align="center"> <img width="110px" src="https://user-images.githubusercontent.com/56489848/153739468-93334d08-033a-497c-a088-2f0988764999.png"> </p>
 
 ### <p align="center"> <span color="orange"><</span> i <span color="green">code</span> things. <span color="orange">></span> </p>
 #### <p align="center">Brendan Price, 18 <br>*look at how i spend my teenage years*</p>
