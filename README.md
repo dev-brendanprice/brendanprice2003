@@ -15,7 +15,7 @@
 ##### <p align="center"> Prized Posessions </p>
 
 <p align="center">
-  <img href="https://github.com/brendanprice2003/D2Synergy_v3.0" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=D2Synergy_v3.0&text_color=d4d4d4&bg_color=121212" /><img href="https://github.com/brendanprice2003/D2_Marketplace" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=D2_Marketplace&text_color=d4d4d4&bg_color=121212" /><img href="https://github.com/Asfalto-Ascari-Group/EchelonClient" src="https://github-readme-stats.vercel.app/api/pin/?username=Asfalto-Ascari-Group&repo=EchelonClient&text_color=d4d4d4&bg_color=121212" />
+  <img href="https://github.com/brendanprice2003/D2Synergy_v3.0" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=D2Synergy_v3.0&text_color=d4d4d4&bg_color=121212" /><img href="https://github.com/brendanprice2003/D2_Marketplace" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=D2_Marketplace&text_color=d4d4d4&bg_color=121212" /><img href="https://github.com/Asfalto-Ascari-Group/EchelonClient" src="https://github-readme-stats.vercel.app/api/pin/?username=Asfalto-Ascari-Group&repo=EchelonClient&text_color=d4d4d4&bg_color=121212" />  <img href="https://github.com/brendanprice2003/Chishiki_Discord_Bot" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=Chishiki_Discord_Bot&text_color=d4d4d4&bg_color=121212" />
 </p>
   
 #### <p align="center"> 🔌 Connect with me 🔌 </p>
