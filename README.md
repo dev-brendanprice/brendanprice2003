@@ -12,8 +12,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=brendanprice2003&show_icons=true&text_color=d4d4d4&bg_color=121212" />
 </p>
 
-##### <p align="center"> VSCode IDE Stats </p>
+##### <p align="center"> Prized Posessions </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=brendanprice2003" />
-</p>
+<a href="https://github.com/brendanprice2003/D2Synergy_v3.0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=D2Synergy_v3.0" />
+</a>
+<a href="https://github.com/brendanprice2003/D2_Marketplace">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=D2_Marketplace" />
+</a>
