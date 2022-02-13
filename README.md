@@ -14,9 +14,14 @@
 
 ##### <p align="center"> Prized Posessions </p>
 
-<a href="https://github.com/brendanprice2003/D2Synergy_v3.0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=D2Synergy_v3.0" />
-</a>
-<a href="https://github.com/brendanprice2003/D2_Marketplace">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=D2_Marketplace" />
-</a>
+<p align="center">
+  <img href="https://github.com/brendanprice2003/D2Synergy_v3.0" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=D2Synergy_v3.0&text_color=d4d4d4&bg_color=121212" /><img href="https://github.com/brendanprice2003/D2_Marketplace" src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=D2_Marketplace&text_color=d4d4d4&bg_color=121212" /><img href="https://github.com/Asfalto-Ascari-Group/EchelonClient" src="https://github-readme-stats.vercel.app/api/pin/?username=Asfalto-Ascari-Group&repo=EchelonClient&text_color=d4d4d4&bg_color=121212" />
+</p>
+  
+#### <p align="center"> 🔌 Connect with me 🔌 </p>
+
+<p align="center">
+  <img width="45px" src="https://user-images.githubusercontent.com/56489848/153740648-84bc05d4-7d6e-4dd7-a7ab-13669fd9ebc0.png" href="https://twitter.com/beru2003">
+</p>
+
+
