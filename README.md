@@ -10,12 +10,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brendanprice2003&show_icons=true&text_color=d4d4d4&bg_color=121212" />
 </p>
-
-### <p align="center"> My Prized Posessions </p>
-
-<p align="center">
-  <a href="https://github.com/brendanprice2003/D2-Synergy"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=D2-Synergy&text_color=d4d4d4&bg_color=121212" /></a><a href="https://github.com/Asfalto-Ascari-Group/EchelonClient"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Asfalto-Ascari-Group&repo=EchelonClient&text_color=d4d4d4&bg_color=121212" /></a><a href="https://github.com/brendanprice2003/Chishiki-Discord-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=brendanprice2003&repo=Chishiki-Discord-Bot&text_color=d4d4d4&bg_color=121212" /></a>
-</p>
   
 #### <p align="center"> 🔌 Connect with me 🔌 </p>
 
