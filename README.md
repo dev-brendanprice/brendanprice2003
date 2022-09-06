@@ -19,4 +19,4 @@
 
 #### <p align="center"> Like what you see? Support me! </p>
 
-<p align="center"> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F2EUT3K) </p>
+<center> [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/F1F2EUT3K) </center>
