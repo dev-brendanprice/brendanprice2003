@@ -14,5 +14,5 @@
 #### <p align="center"> 🔌 Connect with me 🔌 </p>
 
 <p align="center">
-  <img width="45px" src="https://user-images.githubusercontent.com/56489848/153740648-84bc05d4-7d6e-4dd7-a7ab-13669fd9ebc0.png" href="https://twitter.com/beru2003">
+  <img width="45px" src="[https://user-images.githubusercontent.com/56489848/153740648-84bc05d4-7d6e-4dd7-a7ab-13669fd9ebc0.png](https://twitter.com/beru2003)" href="https://twitter.com/beru2003">
 </p>
