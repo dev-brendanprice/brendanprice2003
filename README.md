@@ -1,6 +1,6 @@
 
 ### <p align="center"> <span color="orange"><</span> i <span color="green">code</span> things. <span color="orange">></span> </p>
-#### <p align="center">Brendan Price, 20 <br>*look at how i spend my teenage years*</p>
+#### <p align="center">Brendan Price, 20 <br>*look at how i spent my teenage years*</p>
 
 <!-- (https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
 <p align="center">
